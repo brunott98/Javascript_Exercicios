@@ -32,6 +32,7 @@ triangleType(1,7,1)
 triangleType(2,8,1)
 
 /*
+Test results:
 
 Equilatero
 Isoceles
